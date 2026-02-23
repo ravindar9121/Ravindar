@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio-Ravindar-Kakunuri/static/css/main.204897fc.css",
-    "main.js": "/portfolio-Ravindar-Kakunuri/static/js/main.684351f0.js",
-    "static/js/453.3ee2d6e0.chunk.js": "/portfolio-Ravindar-Kakunuri/static/js/453.3ee2d6e0.chunk.js",
-    "static/media/Profile_pic.png": "/portfolio-Ravindar-Kakunuri/static/media/Profile_pic.f8e81718ecfc2e71aee7.png",
-    "static/media/kotlin.png": "/portfolio-Ravindar-Kakunuri/static/media/kotlin.ec414875592fb32d151a.png",
-    "static/media/AI.png": "/portfolio-Ravindar-Kakunuri/static/media/AI.83474830b8878359ac72.png",
-    "static/media/AWS.png": "/portfolio-Ravindar-Kakunuri/static/media/AWS.c4a4c3c89b8100dd8d3e.png",
-    "static/media/JPMC.jpg": "/portfolio-Ravindar-Kakunuri/static/media/JPMC.2cf1093b8424c92e65b6.jpg",
-    "static/media/Me2.jpeg": "/portfolio-Ravindar-Kakunuri/static/media/Me2.e2767b93a535d7fb6199.jpeg",
-    "static/media/veltech logo.jpg": "/portfolio-Ravindar-Kakunuri/static/media/veltech logo.84801b1e65c11828ea5c.jpg",
-    "static/media/HPE.png": "/portfolio-Ravindar-Kakunuri/static/media/HPE.e5e039699d8b20b05136.png",
-    "static/media/Wells Fargo.png": "/portfolio-Ravindar-Kakunuri/static/media/Wells Fargo.4886b0f39302c15a13c2.png",
-    "static/media/USF.png": "/portfolio-Ravindar-Kakunuri/static/media/USF.f63f744e7ae7087a5e51.png",
-    "static/media/LinkedIn_img.png": "/portfolio-Ravindar-Kakunuri/static/media/LinkedIn_img.4f809ad478582263b5a2.png",
-    "static/media/Github_Img.png": "/portfolio-Ravindar-Kakunuri/static/media/Github_Img.4ac5642c3a0372d94948.png",
-    "index.html": "/portfolio-Ravindar-Kakunuri/index.html",
-    "static/media/menu_open.svg": "/portfolio-Ravindar-Kakunuri/static/media/menu_open.4f507d64d2cbabbd949de3f581a4e27c.svg",
-    "static/media/underline.svg": "/portfolio-Ravindar-Kakunuri/static/media/underline.e702649e5f420e5dd7ba15eb248b2341.svg",
-    "static/media/menu_close.svg": "/portfolio-Ravindar-Kakunuri/static/media/menu_close.2001e956d267bc9b1a2349ee0a8ee521.svg",
-    "main.204897fc.css.map": "/portfolio-Ravindar-Kakunuri/static/css/main.204897fc.css.map",
-    "main.684351f0.js.map": "/portfolio-Ravindar-Kakunuri/static/js/main.684351f0.js.map",
-    "453.3ee2d6e0.chunk.js.map": "/portfolio-Ravindar-Kakunuri/static/js/453.3ee2d6e0.chunk.js.map"
+    "main.css": "/Ravindar/static/css/main.204897fc.css",
+    "main.js": "/Ravindar/static/js/main.2c8a2d49.js",
+    "static/js/453.7a555e50.chunk.js": "/Ravindar/static/js/453.7a555e50.chunk.js",
+    "static/media/Profile_pic.png": "/Ravindar/static/media/Profile_pic.f8e81718ecfc2e71aee7.png",
+    "static/media/kotlin.png": "/Ravindar/static/media/kotlin.ec414875592fb32d151a.png",
+    "static/media/AI.png": "/Ravindar/static/media/AI.83474830b8878359ac72.png",
+    "static/media/AWS.png": "/Ravindar/static/media/AWS.c4a4c3c89b8100dd8d3e.png",
+    "static/media/JPMC.jpg": "/Ravindar/static/media/JPMC.2cf1093b8424c92e65b6.jpg",
+    "static/media/Me2.jpeg": "/Ravindar/static/media/Me2.e2767b93a535d7fb6199.jpeg",
+    "static/media/veltech logo.jpg": "/Ravindar/static/media/veltech logo.84801b1e65c11828ea5c.jpg",
+    "static/media/HPE.png": "/Ravindar/static/media/HPE.e5e039699d8b20b05136.png",
+    "static/media/Wells Fargo.png": "/Ravindar/static/media/Wells Fargo.4886b0f39302c15a13c2.png",
+    "static/media/USF.png": "/Ravindar/static/media/USF.f63f744e7ae7087a5e51.png",
+    "static/media/LinkedIn_img.png": "/Ravindar/static/media/LinkedIn_img.4f809ad478582263b5a2.png",
+    "static/media/Github_Img.png": "/Ravindar/static/media/Github_Img.4ac5642c3a0372d94948.png",
+    "index.html": "/Ravindar/index.html",
+    "static/media/menu_open.svg": "/Ravindar/static/media/menu_open.4f507d64d2cbabbd949de3f581a4e27c.svg",
+    "static/media/underline.svg": "/Ravindar/static/media/underline.e702649e5f420e5dd7ba15eb248b2341.svg",
+    "static/media/menu_close.svg": "/Ravindar/static/media/menu_close.2001e956d267bc9b1a2349ee0a8ee521.svg",
+    "main.204897fc.css.map": "/Ravindar/static/css/main.204897fc.css.map",
+    "main.2c8a2d49.js.map": "/Ravindar/static/js/main.2c8a2d49.js.map",
+    "453.7a555e50.chunk.js.map": "/Ravindar/static/js/453.7a555e50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.204897fc.css",
-    "static/js/main.684351f0.js"
+    "static/js/main.2c8a2d49.js"
   ]
 }
